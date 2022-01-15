@@ -65,7 +65,7 @@
     "karma-script-launcher": "^0.1.0",
     "load-grunt-tasks": "~0.6.0",
     "lodash": "~2.4.1",
-    "marked": "~0.3.0",
+    "marked": "~4.0.10",
     "node-html-encoder": "0.0.2",
     "promises-aplus-tests": "~2.1.0",
     "protractor": "^2.1.0",
